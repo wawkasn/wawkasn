@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;I+love+Python+%F0%9F%90%8D;Coding+is+fun+%F0%9F%92%BB;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
-## About me
+## 🚀 About me
 
 - 👩🏼‍💻 **Name:** wawkasn  
 - 🎂 **Age:** 15  
@@ -18,7 +18,7 @@
 - 📚 **Currently Learning:** Django, PostgreSQL,Python, APIs
   #
 
-  ## My skills
+  ## 🌟 My skills
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,django,postgres,linux,vscode" /> 
